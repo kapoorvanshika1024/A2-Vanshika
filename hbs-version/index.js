@@ -1,6 +1,3 @@
-/* 
-Your Student information in here
-*/
 require("dotenv").config();
 const express = require("express");
 const app = express();
